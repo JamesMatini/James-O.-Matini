@@ -38,9 +38,9 @@ Developing statistical models to forecast trends, simulate scenarios, and help b
 
 ## 🔭 Currently Working On
 
-- **Project A:** [Brief description - e.g., "Building a sales forecasting model using Python and time series analysis"]
-- **Project B:** [Brief description - e.g., "Creating an interactive customer analytics dashboard in Power BI"]
-- **Project C:** [Brief description - e.g., "Automating ETL pipelines with SQL and Python"]
+- **Project A:** Building a sales forecasting model using Python and time series analysis
+- **Project B:** Creating an interactive customer analytics dashboard in Power BI
+- **Project C:** Automating ETL pipelines with SQL and Python
 
 ---
 
